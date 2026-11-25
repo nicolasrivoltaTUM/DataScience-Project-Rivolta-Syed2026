@@ -7,3 +7,4 @@ matplotlib
 pyarrow
 jupyterlab
 nbconvert
+ipykernel
