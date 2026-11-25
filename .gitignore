@@ -1,0 +1,31 @@
+# Raw data (too big for GitHub) - keep only the README
+data/*
+!data/README.md
+
+# Intermediate files
+cache/
+*.parquet
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and local settings
+.env
+.env.*
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Local Claude instructions (kept out of the repo)
+CLAUDE.md
+AI_USAGE.md
