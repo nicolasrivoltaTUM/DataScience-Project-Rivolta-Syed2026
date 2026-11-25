@@ -43,6 +43,4 @@ results/    numbers written by the notebook (CSV / JSON)
 - Pull often (`git pull origin main`), commit small steps, merge into `main` through a pull request.
 - Notebooks conflict easily: clear outputs before committing, and avoid editing the same section at the same time.
 
-## AI use
 
-The course allows AI only as a sounding board. The team keeps its own record of AI use for the AI statement.
